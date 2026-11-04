@@ -1,4 +1,4 @@
-[README_GitHub.md](https://github.com/user-attachments/files/34384129/README_GitHub.md)
+
 <div align="center">
 
 # 👋 Bonjour, moi c'est Corentin !
